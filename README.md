@@ -15,6 +15,7 @@ Library Stack:<br/>
 Program Flow:<br/>
 1 Collecting the Files from the Local Machine(Tkinter) or can be done by URL(Requests)<br/>
 2 Now read these collected files (.csv) and convert them to the (.json)<br/>
-3 By connecting the Python program to mongo using the Pymongo now load the Files to the<br/>
-4 
+3 By connecting the Python program to mongo using the Pymongo now load the Files to the Mongo DB<br/>
+4 Writing some rudimentry Queries on the Schema<br/>
+5 Showing the Results using Matplot.lib<br/>
 
