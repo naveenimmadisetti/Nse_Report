@@ -19,4 +19,4 @@ Program Flow:<br/>
 4 Writing some rudimentry Queries on the Schema<br/>
 5 Showing the Results using Matplot.lib<br/>
 
-
+FLOw:
